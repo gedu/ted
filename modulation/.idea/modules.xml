@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/detailmarvelcharacter/detailmarvelcharacter.iml" filepath="$PROJECT_DIR$/detailmarvelcharacter/detailmarvelcharacter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marvelmodel/marvelmodel.iml" filepath="$PROJECT_DIR$/marvelmodel/marvelmodel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marvelpojo/marvelpojo.iml" filepath="$PROJECT_DIR$/marvelpojo/marvelpojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulation.iml" filepath="$PROJECT_DIR$/modulation.iml" />
+    </modules>
+  </component>
+</project>
